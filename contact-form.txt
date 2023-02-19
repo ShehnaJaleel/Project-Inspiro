@@ -1,0 +1,62 @@
+<div class="container">
+    <div class="card">
+        <div class="top-div">
+            <h2>Get in touch!</h2>
+            <p>Contact us for a quote,help to join the team</p>
+        </div>
+        <div class="stats">
+            <div class="stats1">
+                <span><i class="fa fa-map-marker"></i></span>
+                <span>102 Street 2714 Don</span>
+            </div>
+            <div class="stats1">
+                <span><i class="fa fa-phone"></i></span>
+                <span>+02 123 4567</span>
+            </div>
+            <div class="stats1">
+                <span><i class="fa fa-envelope"></i></span>
+                <span>hello@flowbase.com</span>
+            </div>
+        </div>
+        <div class="card1">
+            <div class="left">
+                <div class="form-control">
+                    
+                    <input type="text" required="required">
+                    <span> Enter your full name</span>
+                    <i class="fa fa-users"></i>
+                </div>
+                <div class="form-control">
+                    
+                    <input type="text" required="required">
+                    <span>E-mail</span>
+                    <i class="fa fa-envelope"></i>
+                </div>
+                <div class="form-control">
+                    
+                    <input type="text" required="required">
+                    <span>Enter your contact no.</span>
+                    <i class="fa fa-mobile-phone"></i>
+                </div>
+            </div>
+            <div class="right">
+                <div class="text-area">
+                   <textarea required="required"></textarea>
+                   <span>Message</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="button">
+            <button>Submit</button>
+        </div>
+        
+    </div>
+
+    
+</div>
+
+
+
+
+
