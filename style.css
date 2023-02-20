@@ -17,6 +17,13 @@ ion-icon
     background-color: rgb(196, 73, 89);
     margin: 7px;
 }
+
+.whatsapp
+{
+    border-style: none;
+    background-color: rgb(196, 73, 89);
+    margin: 7px;
+}
 .navbar-toggler-icon
 {
  background: black;
